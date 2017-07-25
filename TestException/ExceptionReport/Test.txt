@@ -2,6 +2,7 @@
     DYNAMIC LINK LIBRARY : ExceptionReport Project Overview
 ========================================================================
 B
+e
 c
 AppWizard has created this ExceptionReport DLL for you.
 
